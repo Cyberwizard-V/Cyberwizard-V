@@ -1,7 +1,7 @@
 <h1 align="center">Hi there ! ✨ I'm Cyberwizard-V ✨</h1> 
 <p align="center">
 <img  width="500px" height="600px" src="https://user-images.githubusercontent.com/31287869/184509361-0ba53301-901f-4c33-bdfe-fcf29d65e158.png"></img>
-<h4 align="center"><br>Avatar by <a href="twitter.com/baritag">@baritag</a></h4>
+<h4 align="center"><br>Avatar by <a href="https://twitter.com/Baritaguz" target=”_blank”>@baritag</a></h4>
 </p>
 <!--
 **Cyberwizard-V/Cyberwizard-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
