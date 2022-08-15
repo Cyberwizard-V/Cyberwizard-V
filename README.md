@@ -13,7 +13,7 @@ I have learned languages such as Js, HTML, CSS(SCSS), PHP and Python.
   - React js
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read manga, 🖌️ do gaming and eating , 🎵 listen to music, and 🌴 explore nature.
+- Outside tech, 📖 I love to read manga, 🎮 do gaming and love eating food , 🎵 listen to music, and 🌴 explore nature.
 
 __Check out my GitHub repository:__
 
