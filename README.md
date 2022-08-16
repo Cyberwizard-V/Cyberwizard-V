@@ -1,7 +1,7 @@
 # Hi there 👋, Cyberwizard-V here ✨. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Cyberwizard-V.repoName) [![GitHub followers](https://img.shields.io/github/followers/Cyberwizard-V.svg?style=social&label=Follow)](https://github.com/Cyberwizard-V?tab=followers)<br/>
 
-<img align="right" width=300px alt="Unicorn" src="https://user-images.githubusercontent.com/31287869/184509361-0ba53301-901f-4c33-bdfe-fcf29d65e158.png" />
+<img align="right" width=300px alt="CWV" src="https://user-images.githubusercontent.com/31287869/184540366-599052e8-596d-4f1c-a70c-3a9353a2a5ae.png" />
 
 ## <img src="https://user-images.githubusercontent.com/31287869/184540366-599052e8-596d-4f1c-a70c-3a9353a2a5ae.png" width="45px">&nbsp;***About me***
 
