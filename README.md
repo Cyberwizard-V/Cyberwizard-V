@@ -5,7 +5,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/31287869/184540366-599052e8-596d-4f1c-a70c-3a9353a2a5ae.png" width="45px">&nbsp;***About me***
 
-I am a computer science student at HR . I've already passed my level 4 MBO (secondary vocational education) exams as a Software developer.
+I am a computer science student at HR . I've already passed my level 4 MBO exams as a Software developer.
 I have learned languages such as Js, HTML, CSS(SCSS), PHP and Python.
 * **I am interested in Web design, Backend development, and making fun apps(webapps) ofcourse !**
 - 🌱 I’m currently learning ...
