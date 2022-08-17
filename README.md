@@ -9,7 +9,7 @@ I am a computer science student at HR . I've already passed my level 4 MBO (seco
 I have learned languages such as Js, HTML, CSS(SCSS), PHP and Python.
 * **I am interested in Web design, Backend development, and making fun apps(webapps) ofcourse !**
 - 🌱 I’m currently learning ...
-  - Java
+  - C£
   - React js
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
