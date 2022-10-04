@@ -15,20 +15,6 @@ I have learned languages such as Js, HTML, CSS(SCSS), PHP and Python.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read manga, 🎮 do gaming and love eating food , 🎵 listen to music, and 🌴 explore nature.
 
-__Check out my GitHub repository:__
-
-<div>
-  <p>
-    <a href="https://github.com/Cyberwizard-V/Duck-bot.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cyberwizard-V&repo=Duck-bot" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Cyberwizard-V/Currency-converter-API.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cyberwizard-V&repo=Currency-converter-API" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
-
 <h2>👀 My github Stats</h2>
 
 <div>
