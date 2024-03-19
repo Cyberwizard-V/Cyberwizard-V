@@ -10,6 +10,7 @@ I have learned languages such as Js, HTML, CSS(SCSS), PHP and Python.
 * **I am interested in Web design, Backend development, and making fun apps(web apps) of course!**
 - 🌱 I’m currently learning...
   - C#
+  - Vue
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read manga, 🎮 do gaming and love eating food , 🎵 listen to music, and 🌴 explore nature.
